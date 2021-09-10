@@ -1,2 +1,2 @@
 # js-eyes
-practicing mouse events
+practicing mouse events and different languages working together
