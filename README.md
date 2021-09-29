@@ -1,2 +1,4 @@
 # js-eyes
-practicing mouse events and different languages working together
+practicing different languages working together to track "eye" movements.
+
+CSS/ HTML/ JS
